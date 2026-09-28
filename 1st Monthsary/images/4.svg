@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#1f0a14"/>
+  <text x="400" y="480" text-anchor="middle" fill="#ff9db8" font-family="Georgia,serif" font-size="42">Memory 4</text>
+  <text x="400" y="540" text-anchor="middle" fill="#b88898" font-family="sans-serif" font-size="22">Add images/4.jpg anytime</text>
+</svg>

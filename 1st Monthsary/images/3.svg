@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#7a3050"/>
+      <stop offset="100%" stop-color="#150810"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <text x="400" y="480" text-anchor="middle" fill="#ffe0ea" font-family="Georgia,serif" font-size="42">Memory 3</text>
+  <text x="400" y="540" text-anchor="middle" fill="#d0a8b8" font-family="sans-serif" font-size="22">Replace with images/3.jpg</text>
+</svg>

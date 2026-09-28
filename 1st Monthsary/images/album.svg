@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="g" cx="38%" cy="32%" r="75%">
+      <stop offset="0%" stop-color="#ffb8cc"/>
+      <stop offset="45%" stop-color="#c45a7a"/>
+      <stop offset="100%" stop-color="#2a0a16"/>
+    </radialGradient>
+  </defs>
+  <circle cx="200" cy="200" r="198" fill="#0a0408" stroke="#ff9db8" stroke-width="3"/>
+  <circle cx="200" cy="200" r="168" fill="url(#g)"/>
+  <text x="200" y="168" text-anchor="middle" fill="#fff5f8" font-family="Georgia,serif" font-size="18" letter-spacing="4">PINK SWEAT$</text>
+  <text x="200" y="218" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="32">At My Worst</text>
+  <circle cx="200" cy="200" r="26" fill="#0a0408" stroke="#ffb8cc" stroke-width="2"/>
+</svg>
